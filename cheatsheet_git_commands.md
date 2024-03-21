@@ -1,4 +1,4 @@
-This is my cheatsheet with git commands (from https://dzone.com/articles/top-20-git-commands-with-examples)
+Hello, this is my cheatsheet with git commands (from https://dzone.com/articles/top-20-git-commands-with-examples)
 
 Main Git commands:
 
