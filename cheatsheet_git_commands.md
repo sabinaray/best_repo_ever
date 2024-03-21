@@ -1,4 +1,5 @@
-cheatsheet with git commands (from https://dzone.com/articles/top-20-git-commands-with-examples)
+
+My cheatsheet with git commands (from https://dzone.com/articles/top-20-git-commands-with-examples)
 
 Git Commands
 git config
@@ -14,7 +15,7 @@ This command is used to obtain a repository from an existing URL.
 git add
 Usage: git add [file]
 This command adds a file to the staging area.
-•
+
 
 Usage: git add * - This command adds one or more to the staging area.
 
@@ -23,7 +24,6 @@ Usage: git commit -m “[ Type in the commit message]”
 
 This command records or snapshots the file permanently in the version history.
 
-•
 
 Usage: git commit -a - This command commits any files you’ve added with the git add command
 and also commits any files you’ve changed since then.
@@ -32,8 +32,7 @@ git diff
 Usage: git diff
 This command shows the file differences which are not yet staged.
 
-•
-•
+
 
 Usage: git diff –staged - This command shows the differences between the files in the staging area
 and the latest version present.
